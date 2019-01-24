@@ -1,0 +1,24 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .camp-preview-img {
+    height: 170px;
+    overflow: hidden;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.capitalizedUserName {
+    text-transform: capitalize;
+}
+
+#delete-form {
+    display: inline;
+}
