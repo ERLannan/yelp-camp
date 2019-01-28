@@ -9,6 +9,7 @@
 .thumbnail .camp-preview-img {
     height: 170px;
     overflow: hidden;
+    background-size: cover;
 }
 
 .thumbnail .caption-full {
